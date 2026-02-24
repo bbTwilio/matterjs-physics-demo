@@ -1,0 +1,16 @@
+{
+  "name": "twilio-web-test-app",
+  "version": "1.0.0",
+  "description": "Matter.js physics web application with accelerometer support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["matter.js", "physics", "accelerometer"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
